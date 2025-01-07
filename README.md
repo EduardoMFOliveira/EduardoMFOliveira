@@ -17,9 +17,8 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é poss�
 
 ---
 <div>
- <image src = "banner.gif" width= "270px" align = "right" >
+ <image src = "banner.gif" width= "200px" align = "center" >
 </div>
-
 
 ---
  
