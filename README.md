@@ -13,8 +13,13 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é poss�
 
 <div>
 <img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMFOliveira&layout=donut&show_icons=true&theme=tokyonight&count_private=true
+ <img width="350px" align="center" src=https://github-readme-stats.vercel.app/api?username=EduardoMFOliveira&show_icons=true&theme=rad
+ 
 </div>
- <image src = "banner.gif" width= "200px" align = "right" >
+ <image src = "banner.gif" width= "240px" align = "right" >
+
+
+
 
 ---
  
@@ -22,7 +27,7 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é poss�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=70px>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=80px /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=70px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=70px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=70px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width=70px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" width=70px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=70px/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=80px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=70px/>          
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=80px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=70px/>          
 </div>          
 
 ---
