@@ -14,11 +14,7 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é poss�
 <div>
 <img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMFOliveira&show_icons=true&theme=tokyonight&count_private=true
 </div>
-
----
-<div>
- <image src = "banner.gif" width= "150px" align = "right" >
-</div>
+ <image src = "banner.gif" width= "200px" align = "right" >
 
 ---
  
