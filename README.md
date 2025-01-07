@@ -21,7 +21,7 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é poss�
 ---
 
 <div id="badges" align="center">
- <a href ="https://www.linkedin.com/in/eduardo-m-f-o/">
+ <a href ="https://www.linkedin.com/in/eduardo-mendesfdo/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  <a/>
 </div>
@@ -30,7 +30,7 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é poss�
 
 
 <div>
-<img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=SanninSama&show_icons=true&theme=tokyonight&count_private=true
+<img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMFOliveira&show_icons=true&theme=tokyonight&count_private=true
 </div>
           
           
