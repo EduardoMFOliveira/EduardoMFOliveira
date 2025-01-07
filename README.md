@@ -1,4 +1,4 @@
-<image src = "banner.gif" width= "270px" align = "right" >
+
 
 # Bem vindo ao meu GitHub 🤗
 
@@ -9,10 +9,16 @@ Apaixonado por tudo que faço 💕 meu sonho é ajudar as pessoas
 
 Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é possível contribuir para um mundo melhor!
 
+---
 
+<div>
+<img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMFOliveira&show_icons=true&theme=tokyonight&count_private=true
+</div>
 
-
-
+---
+<div>
+ <image src = "banner.gif" width= "270px" align = "right" >
+</div>
 
 
 ---
@@ -35,9 +41,7 @@ Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é poss�
 ---
 
 
-<div>
-<img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMFOliveira&show_icons=true&theme=tokyonight&count_private=true
-</div>
+
           
           
           
