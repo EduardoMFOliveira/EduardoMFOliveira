@@ -5,9 +5,7 @@
 - Sou desenvolvedor de softwares em geral!
 - Meu objetivo é ser fullstack  🤖
 
-Apaixonado por tudo que faço 💕 meu sonho é ajudar as pessoas
-
-Com meus conhecimentos em software 🧩 e experiência em hardware 🗿 é possível contribuir para um mundo melhor!
+Apaixonado por tudo que faço 💕
 
 ---
 
