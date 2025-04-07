@@ -34,14 +34,4 @@ Apaixonado por tudo que faço 💕
  <a href ="https://www.linkedin.com/in/eduardo-mendesfdo/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  <a/>
-</div>
-          
----
-
-
-
-          
-          
-          
-          
-          
+</div>       
